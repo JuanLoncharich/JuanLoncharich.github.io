@@ -1,0 +1,26 @@
+title: "Bitácora de Aprendizaje — Juan Loncharich"
+description: "Registro semanal de actividades y evidencias de aprendizaje."
+lang: es
+author: Juan Andrés Loncharich
+url: "https://juanloncharich.github.io"
+baseurl: ""
+theme: minima
+timezone: America/Argentina/Mendoza
+permalink: /:year/:month/:day/:title/
+
+# The last entries are dated after the build date; publish them anyway.
+future: true
+
+minima:
+  date_format: "%d/%m/%Y"
+
+exclude:
+  - drafts.md
+  - TODO.md
+  - NOTES.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - .jekyll-cache/
