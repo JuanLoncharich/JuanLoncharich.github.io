@@ -5,13 +5,11 @@ date: 2026-08-10
 comments: true
 ---
 
-[FOTO O AVATAR]
+![Foto de Juan Andrés Loncharich]({{ '/assets/img/entrada-01-avatar.jpg' | relative_url }}){: width="280" }
 
-<!-- ![Foto o avatar]({{ '/assets/img/entrada-01-avatar.png' | relative_url }}) -->
+Hola, soy Juan Andrés Loncharich, tengo 22 años y vivo en Luján de Cuyo, Mendoza. Estoy en cuarto año de la Licenciatura en Ciencias de la Computación en la Facultad de Ingeniería de la UNCuyo.
 
-Hola, soy Juan Andrés Loncharich, tengo [EDAD] años y vivo en Luján de Cuyo, Mendoza. Estoy en cuarto año de la Licenciatura en Ciencias de la Computación en la Facultad de Ingeniería de la UNCuyo.
-
-**Familia.** [Contá con quién vivís, hermanos, algo de tu familia.] Con mi papá, Andrés, estamos empezando a pensar un emprendimiento juntos, así que los temas de esta materia me tocan de cerca.
+**Familia.** Vivo con mi familia: mi mamá, mi papá y mi hermana. Con mi papá, Andrés, estamos empezando a pensar un emprendimiento juntos, así que los temas de esta materia me tocan de cerca.
 
 **Qué hago.** Desde mayo de 2025 investigo en el Labsin, con el Dr. Carlos Catania, sobre agentes de inteligencia artificial aplicados a ciberseguridad, en colaboración con un laboratorio de la Universidad Técnica Checa en Praga. Además estoy desarrollando Vital360, una plataforma que genera informes de “salud” de empresas, que ya tiene su primer cliente real. Me interesa trabajar en infraestructura y DevOps.
 

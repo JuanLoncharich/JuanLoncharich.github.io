@@ -8,9 +8,6 @@ Archivo: `_posts/2026-08-10-entrada-1-quien-soy.md`
 
 ### Placeholders pendientes
 
-- [ ] [FOTO O AVATAR]
-- [ ] [EDAD]
-- [ ] [Contá con quién vivís, hermanos, algo de tu familia.]
 - [ ] [Escribí uno o dos reales. Ideas para pensar: no llegar con todo lo que me propongo, elegir mal entre varios caminos, liderar un equipo y equivocarme, hablar en público…]
 - [ ] [Agregá lo que vos esperes.]
 
