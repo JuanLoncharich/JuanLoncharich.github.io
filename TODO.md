@@ -20,9 +20,7 @@ Archivo: `_posts/2026-08-17-entrada-2-mi-tipo-de-personalidad.md`
 
 ### Placeholders pendientes
 
-- [ ] [Elegí 2 o 3 de las que muestra el sitio y que de verdad reconozcas. Para cada una, un ejemplo concreto: “Me identifico con ___ porque cuando ___”.]
-- [ ] [Lo mismo, 2 o 3 con ejemplo. Lo que más vale es la honestidad: algo que te haya pasado en un equipo o proyecto.]
-- [ ] [¿Te sorprendió el resultado o lo esperabas? ¿En qué coincide y en qué no? ¿Cómo te puede servir saberlo para trabajar con otros?]
+_Nada pendiente._
 
 ## Entrada 3 · Mis inteligencias múltiples
 

@@ -19,8 +19,8 @@ El test mide cinco dimensiones. Mis resultados:
 | Tácticas: Planificador / Prospectivo | 56% Prospectivo |
 | Identidad: Asertivo / Turbulento | 82% Asertivo |
 
-**Fortalezas.** [Elegí 2 o 3 de las que muestra el sitio y que de verdad reconozcas. Para cada una, un ejemplo concreto: “Me identifico con ___ porque cuando ___”.]
+**Fortalezas.** Me identifico con ser **aprendiz rápido**: realmente aprendo muy rápido y me adapto muy bien a situaciones nuevas, incluso a las incómodas. También con ser **pensador independiente**, porque tengo muy buen criterio.
 
-**Debilidades.** [Lo mismo, 2 o 3 con ejemplo. Lo que más vale es la honestidad: algo que te haya pasado en un equipo o proyecto.]
+**Debilidades.** La **dificultad organizativa**: me cuesta organizarme e incluso empezar, pero una vez que empiezo ya está, ya gané. Y sí, tengo **impaciencia con las tareas monótonas**.
 
-**Reflexión.** [¿Te sorprendió el resultado o lo esperabas? ¿En qué coincide y en qué no? ¿Cómo te puede servir saberlo para trabajar con otros?]
+**Reflexión.** Me sorprendió el resultado: esperaba otra cosa.
