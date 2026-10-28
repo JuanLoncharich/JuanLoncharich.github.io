@@ -9,18 +9,18 @@ comments: true
 
 <!-- ![Captura del resultado]({{ '/assets/img/entrada-03-resultado.png' | relative_url }}) -->
 
-Según la teoría de Howard Gardner, la inteligencia no es una sola capacidad sino varias, relativamente independientes. Estos fueron mis resultados:
+Según la teoría de Howard Gardner, la inteligencia no es una sola capacidad sino varias, relativamente independientes. Hice el test de inteligencias múltiples de Jobcannon, que no da puntajes numéricos sino tres niveles: *núcleo* (las más desarrolladas), *apoyo* y *equilibrado* (las menos desarrolladas). Estos fueron mis resultados:
 
-| Inteligencia | Puntaje |
+| Inteligencia | Nivel |
 | --- | --- |
-| Lingüística | [ ] |
-| Lógico-matemática | [ ] |
-| Espacial | [ ] |
-| Musical | [ ] |
-| Corporal-cinestésica | [ ] |
-| Interpersonal | [ ] |
-| Intrapersonal | [ ] |
-| Naturalista | [ ] |
+| Lingüística | Apoyo |
+| Lógico-matemática | **Núcleo** |
+| Espacial | Equilibrado |
+| Musical | **Núcleo** |
+| Corporal-cinestésica | **Núcleo** |
+| Interpersonal | Apoyo |
+| Intrapersonal | Apoyo |
+| Naturalista | Equilibrado |
 
 **Mis fortalezas.** [Las 2 o 3 más altas. Para cada una, dónde la usás: por ejemplo, la lógico-matemática en programación y en la carrera; la musical con la guitarra; la corporal con la bici y el gimnasio.]
 
