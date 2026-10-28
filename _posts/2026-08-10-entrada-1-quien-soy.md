@@ -15,6 +15,8 @@ Hola, soy Juan Andrés Loncharich, tengo 22 años y vivo en Luján de Cuyo, Mend
 
 **Gustos y hobbies.** Toco la guitarra eléctrica y escucho sobre todo metal y rock alternativo (Deftones, Alice in Chains, Slipknot) y rock nacional. Ando en mountain bike por Chacras y Potrerillos, voy al gimnasio y tengo como meta correr una carrera de Hyrox. También me gustan el sim racing, los autos y leer en el Kindle.
 
-**Temores.** [Escribí uno o dos reales. Ideas para pensar: no llegar con todo lo que me propongo, elegir mal entre varios caminos, liderar un equipo y equivocarme, hablar en público…]
+**Temores.** Me da miedo ponerme metas demasiado ambiciosas y no alcanzarlas, aunque tengo a mi favor que voy a hacer todo lo necesario para conseguirlas: si fallo, no va a ser por mí. También me da un poco de miedo perder tiempo. Aunque eso también enseña, no me gustaría darme cuenta de que algo a lo que le dediqué mucho tiempo ya no me gusta. No me da miedo fallar, pero sí perder tiempo en el camino.
 
-**Expectativas sobre la materia.** Hasta ahora casi toda mi formación fue técnica. Coordino un equipo en un proyecto de investigación y estoy armando proyectos propios, y ahí me doy cuenta de que lo difícil muchas veces no es la tecnología sino las personas: comunicar, negociar, liderar y organizarse. Espero que esta materia me dé herramientas para eso. [Agregá lo que vos esperes.]
+**Expectativas sobre la materia.** Hasta ahora casi toda mi formación fue técnica. Coordino un equipo en un proyecto de investigación y estoy armando proyectos propios, y ahí me doy cuenta de que lo difícil muchas veces no es la tecnología sino las personas: comunicar, negociar, liderar y organizarse. Espero que esta materia me dé herramientas para eso y, en concreto, que me ayude a llegar más fácilmente a los objetivos que me propongo.
+
+*Nota agregada al final de la cursada: armé este blog tarde, así que ya puedo decir que esta expectativa se cumplió.*

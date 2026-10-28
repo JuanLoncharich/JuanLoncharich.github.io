@@ -8,8 +8,7 @@ Archivo: `_posts/2026-08-10-entrada-1-quien-soy.md`
 
 ### Placeholders pendientes
 
-- [ ] [Escribí uno o dos reales. Ideas para pensar: no llegar con todo lo que me propongo, elegir mal entre varios caminos, liderar un equipo y equivocarme, hablar en público…]
-- [ ] [Agregá lo que vos esperes.]
+_Nada pendiente._
 
 ## Entrada 2 · Mi tipo de personalidad
 
