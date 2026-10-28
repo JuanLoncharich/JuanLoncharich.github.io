@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 14 · Planes de negocio y emprendimiento"
 date: 2026-11-02
 comments: true
+published: false
 ---
 
 **Lo que me dejaron los videos.** [Elegí el video que viste y escribí 3 o 4 líneas: una idea que te pareció clave y cómo la aplicarías. Por ejemplo, si habla de rentabilidad: la diferencia entre facturar y ganar, y por qué muchos emprendimientos que venden bien igual cierran.]

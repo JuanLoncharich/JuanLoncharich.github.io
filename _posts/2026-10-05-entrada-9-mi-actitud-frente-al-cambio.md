@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 9 · Mi actitud frente al cambio"
 date: 2026-10-05
 comments: true
+published: false
 ---
 
 [FOTO O CAPTURA DEL TEST]

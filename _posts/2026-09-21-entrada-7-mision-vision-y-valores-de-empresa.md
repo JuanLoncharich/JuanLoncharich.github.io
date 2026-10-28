@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 7 · Misión, visión y valores de [EMPRESA]"
 date: 2026-09-21
 comments: true
+published: false
 ---
 
 [LOGO O IMAGEN DE LA EMPRESA]

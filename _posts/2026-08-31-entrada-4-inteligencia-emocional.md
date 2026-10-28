@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 4 · Inteligencia emocional"
 date: 2026-08-31
 comments: true
+published: false
 ---
 
 [CAPTURA DEL RESULTADO]

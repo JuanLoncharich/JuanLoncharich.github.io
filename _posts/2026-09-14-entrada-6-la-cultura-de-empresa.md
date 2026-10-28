@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 6 · La cultura de [EMPRESA]"
 date: 2026-09-14
 comments: true
+published: false
 ---
 
 Elegí analizar **[EMPRESA]** porque [MOTIVO].

@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 11 · Cómo influyo en los demás"
 date: 2026-10-12
 comments: true
+published: false
 ---
 
 Las tácticas que suelen aparecer en estos cuestionarios (basadas en Yukl) son: persuasión racional (datos y argumentos), apelación inspiracional (valores y entusiasmo), consulta (hacer partícipe al otro), congraciarse (halagar o ponerse del lado del otro), intercambio (ofrecer algo a cambio), apelación personal (amistad o lealtad), coalición (sumar apoyo de otros), legitimación (apelar a reglas o al cargo) y presión (exigir o amenazar).

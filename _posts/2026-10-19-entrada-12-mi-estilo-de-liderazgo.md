@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 12 · Mi estilo de liderazgo"
 date: 2026-10-19
 comments: true
+published: false
 ---
 
 **Para interpretar tus resultados:**

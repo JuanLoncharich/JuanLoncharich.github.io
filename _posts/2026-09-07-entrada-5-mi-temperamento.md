@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 5 · Mi temperamento"
 date: 2026-09-07
 comments: true
+published: false
 ---
 
 [FOTO O CAPTURA DEL TEST COMPLETADO]

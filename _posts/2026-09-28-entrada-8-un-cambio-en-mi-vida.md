@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 8 · Un cambio en mi vida"
 date: 2026-09-28
 comments: true
+published: false
 ---
 
 **El cambio.** [Qué cambió, cuándo, y cómo era antes y después. 3 o 4 líneas.]

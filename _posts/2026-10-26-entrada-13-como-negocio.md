@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 13 · Cómo negocio"
 date: 2026-10-26
 comments: true
+published: false
 ---
 
 Hice el test de autoevaluación de negociación y obtuve **[PUNTAJE / PERFIL]**. [Qué dice el test de ese perfil, en una o dos líneas.]

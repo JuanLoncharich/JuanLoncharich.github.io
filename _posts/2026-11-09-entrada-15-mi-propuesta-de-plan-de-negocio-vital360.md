@@ -3,6 +3,7 @@ layout: post
 title: "Entrada 15 · Mi propuesta de plan de negocio: Vital360"
 date: 2026-11-09
 comments: true
+published: false
 ---
 
 ### 1. Resumen ejecutivo
