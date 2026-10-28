@@ -20,8 +20,6 @@ Según la teoría de Howard Gardner, la inteligencia no es una sola capacidad si
 | Intrapersonal | Apoyo |
 | Naturalista | Equilibrado |
 
-**Mis fortalezas.** [Las 2 o 3 más altas. Para cada una, dónde la usás: por ejemplo, la lógico-matemática en programación y en la carrera; la musical con la guitarra; la corporal con la bici y el gimnasio.]
+**Mis fortalezas.** Mis tres inteligencias más fuertes son la lógico-matemática, la musical y la corporal. La lógico-matemática la uso todos los días en la carrera y programando. La musical y la corporal tienen que ver con mis dos hobbies: tocar la guitarra eléctrica y entrenar, ya sea en el gimnasio o andando en bici.
 
-**Mis debilidades.** [Las 2 más bajas. ¿En qué situaciones lo notás? ¿Te afecta en la facultad o en el trabajo en equipo?]
-
-**Reflexión.** [¿Coincide con cómo te ves? ¿Qué podrías hacer para desarrollar las más bajas? Si sale baja la interpersonal o la lingüística, conectalo con esta materia: es justo lo que viene a trabajar.]
+**Mis debilidades.** Las más bajas son la espacial y la naturalista. No me preocupa demasiado: son áreas que nunca me atrajeron realmente y a las que no les dediqué tiempo, así que tiene sentido que estén menos desarrolladas.
