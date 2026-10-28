@@ -28,7 +28,6 @@ Archivo: `_posts/2026-08-24-entrada-3-mis-inteligencias-multiples.md`
 
 ### Placeholders pendientes
 
-- [ ] [CAPTURA DEL RESULTADO]
 - [ ] [Las 2 o 3 más altas. Para cada una, dónde la usás: por ejemplo, la lógico-matemática en programación y en la carrera; la musical con la guitarra; la corporal con la bici y el gimnasio.]
 - [ ] [Las 2 más bajas. ¿En qué situaciones lo notás? ¿Te afecta en la facultad o en el trabajo en equipo?]
 - [ ] [¿Coincide con cómo te ves? ¿Qué podrías hacer para desarrollar las más bajas? Si sale baja la interpersonal o la lingüística, conectalo con esta materia: es justo lo que viene a trabajar.]

@@ -5,9 +5,7 @@ date: 2026-08-24
 comments: true
 ---
 
-[CAPTURA DEL RESULTADO]
-
-<!-- ![Captura del resultado]({{ '/assets/img/entrada-03-resultado.png' | relative_url }}) -->
+![Resultado del test de inteligencias múltiples]({{ '/assets/img/entrada-03-resultado.jpg' | relative_url }})
 
 Según la teoría de Howard Gardner, la inteligencia no es una sola capacidad sino varias, relativamente independientes. Hice el test de inteligencias múltiples de Jobcannon, que no da puntajes numéricos sino tres niveles: *núcleo* (las más desarrolladas), *apoyo* y *equilibrado* (las menos desarrolladas). Estos fueron mis resultados:
 
