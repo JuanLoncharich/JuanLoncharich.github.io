@@ -5,21 +5,19 @@ date: 2026-08-17
 comments: true
 ---
 
-[CAPTURA DEL RESULTADO]
+![Resultado del test de 16 Personalidades: Innovador (ENTP-A)]({{ '/assets/img/entrada-02-resultado.jpg' | relative_url }})
 
-<!-- ![Captura del resultado]({{ '/assets/img/entrada-02-resultado.png' | relative_url }}) -->
-
-Hice el test de 16 Personalidades y mi resultado fue **[TIPO, ej. INTJ-A] – [NOMBRE, ej. Arquitecto]**.
+Hice el test de 16 Personalidades y mi resultado fue **ENTP-A – Innovador**.
 
 El test mide cinco dimensiones. Mis resultados:
 
 | Dimensión | Mi resultado |
 | --- | --- |
-| Energía: Introvertido / Extrovertido | [% y lado] |
-| Mente: Intuitivo / Observador | [% y lado] |
-| Naturaleza: Pensamiento / Sentimiento | [% y lado] |
-| Táctica: Juicio / Prospección | [% y lado] |
-| Identidad: Asertivo / Cauteloso | [% y lado] |
+| Energía: Extravertido / Introvertido | 53% Extravertido |
+| Mente: Intuitivo / Observador | 59% Intuitivo |
+| Naturaleza: Racional / Emocional | 60% Racional |
+| Tácticas: Planificador / Prospectivo | 56% Prospectivo |
+| Identidad: Asertivo / Turbulento | 82% Asertivo |
 
 **Fortalezas.** [Elegí 2 o 3 de las que muestra el sitio y que de verdad reconozcas. Para cada una, un ejemplo concreto: “Me identifico con ___ porque cuando ___”.]
 
