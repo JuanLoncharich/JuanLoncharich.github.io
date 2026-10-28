@@ -13,7 +13,7 @@ Hola, soy Juan Andrés Loncharich, tengo 22 años y vivo en Luján de Cuyo, Mend
 
 **Qué hago.** Desde mayo de 2025 investigo en el Labsin, con el Dr. Carlos Catania, sobre agentes de inteligencia artificial aplicados a ciberseguridad, en colaboración con un laboratorio de la Universidad Técnica Checa en Praga. Además estoy desarrollando Vital360, una plataforma que genera informes de “salud” de empresas, que ya tiene su primer cliente real. Me interesa trabajar en infraestructura y DevOps.
 
-**Gustos y hobbies.** Toco la guitarra eléctrica y escucho sobre todo metal y rock alternativo (Deftones, Alice in Chains, Slipknot) y rock nacional. Ando en mountain bike por Chacras y Potrerillos, voy al gimnasio y tengo como meta correr una carrera de Hyrox. También me gustan el sim racing, los autos y leer en el Kindle.
+**Gustos y hobbies.** Toco la guitarra eléctrica y escucho sobre todo metal y rock alternativo (Deftones, Alice in Chains, Slipknot) y rock nacional. Ando en mountain bike por Chacras y Potrerillos y voy al gimnasio: tengo metas físicas altas relacionadas con el entrenamiento. También me gustan los autos.
 
 **Temores.** Me da miedo ponerme metas demasiado ambiciosas y no alcanzarlas, aunque tengo a mi favor que voy a hacer todo lo necesario para conseguirlas: si fallo, no va a ser por mí. También me da un poco de miedo perder tiempo. Aunque eso también enseña, no me gustaría darme cuenta de que algo a lo que le dediqué mucho tiempo ya no me gusta. No me da miedo fallar, pero sí perder tiempo en el camino.
 
