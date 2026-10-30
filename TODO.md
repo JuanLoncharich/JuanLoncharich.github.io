@@ -48,12 +48,7 @@ Archivo: `_posts/2026-09-07-entrada-5-mi-temperamento.md`
 
 ### Placeholders pendientes
 
-- [ ] [FOTO O CAPTURA DEL TEST COMPLETADO]
-- [ ] [SANGUÍNEO / COLÉRICO / MELANCÓLICO / FLEMÁTICO]
-- [ ] [SECUNDARIO]
-- [ ] [2 o 3 de la guía, con un ejemplo tuyo cada una.]
-- [ ] [1 o 2, y por qué.]
-- [ ] [Usá la guía del aula: elegí 2 temperamentos distintos al tuyo y contá qué dice la guía sobre cómo relacionarte con ellos. Mejor si pensás en una persona real de tu equipo o tu entorno, sin nombrarla.]
+_Nada pendiente._
 
 ## Entrada 6 · La cultura de [EMPRESA]
 
