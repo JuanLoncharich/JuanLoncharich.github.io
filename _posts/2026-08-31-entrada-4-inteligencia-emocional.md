@@ -3,17 +3,27 @@ layout: post
 title: "Entrada 4 · Inteligencia emocional"
 date: 2026-08-31
 comments: true
-published: false
 ---
 
-[CAPTURA DEL RESULTADO]
+![Resultado del test de inteligencia emocional]({{ '/assets/img/entrada-04-resultado.jpg' | relative_url }})
 
-<!-- ![Captura del resultado]({{ '/assets/img/entrada-04-resultado.png' | relative_url }}) -->
+**¿Qué es la inteligencia emocional?** Es la capacidad de reconocer y manejar las emociones propias y de entender las de los demás. Daniel Goleman, que popularizó el concepto, plantea que, a diferencia del coeficiente intelectual, se puede desarrollar con práctica, y que en el trabajo en equipo muchas veces pesa tanto como el conocimiento técnico.
 
-Mi resultado en el test de inteligencia emocional fue **[PUNTAJE / NIVEL]**. [Si el test da resultados por área, listalos.]
+Hice el test de inteligencia emocional de Jobcannon, que evalúa cuatro áreas y ubica cada una en tres niveles: *núcleo* (las más desarrolladas), *apoyo* y *equilibrado* (las menos desarrolladas). Estos fueron mis resultados:
 
-**¿Qué es la inteligencia emocional?** Es la capacidad de reconocer, entender y manejar las emociones propias y de reconocer e influir en las de los demás. Daniel Goleman, que popularizó el concepto, la divide en cinco componentes: autoconocimiento (saber qué siento y por qué), autorregulación (manejar esas emociones en vez de reaccionar), motivación (sostener el esfuerzo hacia una meta), empatía (entender lo que sienten los otros) y habilidades sociales (comunicar, negociar, resolver conflictos).
+| Área | Nivel |
+| --- | --- |
+| Autoconciencia | **Núcleo** |
+| Empatía | **Núcleo** |
+| Autorregulación | Apoyo |
+| Habilidades sociales | Equilibrado |
 
-Lo interesante es que, a diferencia del coeficiente intelectual, se puede desarrollar con práctica. Y en el trabajo en equipo muchas veces pesa más: un equipo técnicamente muy bueno puede trabarse por un conflicto mal manejado.
+**Mis puntos fuertes: autoconciencia y empatía.** Noto bastante cuándo alguien está mal. Y cuando se me mete en la cabeza que una persona no está bien, me pongo muy insistente para que me cuente qué le pasa. Aun así, a veces se me escapa y no me doy cuenta de que algo ocurrió.
 
-**Mi reflexión.** [¿Qué área te salió más alta y cuál más baja? Un ejemplo real de cada una. Ideas: cómo reaccionás bajo presión con una entrega o un problema en producción, cómo das o recibís críticas en tu equipo, si te cuesta darte cuenta de cómo está otra persona. Cerrá con algo concreto que podrías hacer para mejorar el área más baja.]
+**Bajo presión.** En general reacciono bien: sé que en esos momentos tengo que concentrarme y enfocarme más de lo normal.
+
+**Lo que me cuesta: habilidades sociales.** Recibir críticas me resulta fácil; de hecho, para mí es la mejor forma de aprender. Darlas, en cambio, me cuesta, porque no sé cómo va a reaccionar la otra persona.
+
+**Qué me propongo.** Practicar dar feedback: animarme a hacer críticas en el laboratorio y en los trabajos grupales, de forma concreta y amable, explicando qué vi, qué efecto tuvo y qué propongo.
+
+**Reflexión.** El resultado me sorprendió para bien. Creía que este tema no era lo mío, pero parece que estoy mejor de lo que pensaba.

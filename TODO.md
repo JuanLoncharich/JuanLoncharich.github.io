@@ -36,10 +36,7 @@ Archivo: `_posts/2026-08-31-entrada-4-inteligencia-emocional.md`
 
 ### Placeholders pendientes
 
-- [ ] [CAPTURA DEL RESULTADO]
-- [ ] [PUNTAJE / NIVEL]
-- [ ] [Si el test da resultados por área, listalos.]
-- [ ] [¿Qué área te salió más alta y cuál más baja? Un ejemplo real de cada una. Ideas: cómo reaccionás bajo presión con una entrega o un problema en producción, cómo das o recibís críticas en tu equipo, si te cuesta darte cuenta de cómo está otra persona. Cerrá con algo concreto que podrías hacer para mejorar el área más baja.]
+_Nada pendiente._
 
 ## Entrada 5 · Mi temperamento
 
