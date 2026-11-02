@@ -50,9 +50,9 @@ Archivo: `_posts/2026-09-07-entrada-5-mi-temperamento.md`
 
 _Nada pendiente._
 
-## Entrada 6 · La cultura de [EMPRESA]
+## Entrada 6 · La cultura de PedidosYa
 
-Archivo: `_posts/2026-09-14-entrada-6-la-cultura-de-empresa.md`
+Archivo: `_posts/2026-09-14-entrada-6-la-cultura-de-pedidosya.md`
 
 ### Notas
 
@@ -62,13 +62,7 @@ Archivo: `_posts/2026-09-14-entrada-6-la-cultura-de-empresa.md`
 
 ### Placeholders pendientes
 
-- [ ] [EMPRESA]
-- [ ] [MOTIVO]
-- [ ] [Qué observás en la empresa elegida.]
-- [ ] [Ejemplo: en Mercado Libre, tomar riesgos, competir para ganar y buscar la excelencia aparecen como parte de su cultura emprendedora.]
-- [ ] [Ejemplo: cuánta autonomía tienen los equipos, cómo se tratan los errores, quién decide.]
-- [ ] [elegí 2 o 3 que pida el documento: estilo de liderazgo, comunicación, trabajo en equipo, reconocimientos, diversidad, cómo se incorpora a la gente nueva]
-- [ ] [¿Te gustaría trabajar en una cultura así? ¿Qué te atrae y qué no? Podés compararla con cómo funciona tu equipo en el laboratorio.]
+_Nada pendiente._
 
 ## Entrada 7 · Misión, visión y valores de [EMPRESA]
 
