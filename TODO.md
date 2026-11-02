@@ -96,14 +96,7 @@ Archivo: `_posts/2026-10-05-entrada-9-mi-actitud-frente-al-cambio.md`
 
 ### Placeholders pendientes
 
-- [ ] [FOTO O CAPTURA DEL TEST]
-- [ ] [N]
-- [ ] [tengo predisposición a los cambios / prefiero la seguridad de lo conocido]
-- [ ] [Característica 1, tomada de una pregunta donde respondiste 4 o 1]
-- [ ] [Por qué la elegís y un ejemplo. Podés enlazarla con el cambio que contaste en la Entrada 8.]
-- [ ] [Característica 2]
-- [ ] [Lo mismo.]
-- [ ] [¿El resultado coincide con lo que viviste en la Entrada 8? Si salís muy abierto al cambio, una pregunta interesante es si eso también tiene un costo, por ejemplo arrancar muchas cosas a la vez.]
+_Nada pendiente._
 
 ## Entrada 11 · Cómo influyo en los demás
 
