@@ -64,9 +64,9 @@ Archivo: `_posts/2026-09-14-entrada-6-la-cultura-de-pedidosya.md`
 
 _Nada pendiente._
 
-## Entrada 7 · Misión, visión y valores de [EMPRESA]
+## Entrada 7 · Misión, visión y valores de PedidosYa
 
-Archivo: `_posts/2026-09-21-entrada-7-mision-vision-y-valores-de-empresa.md`
+Archivo: `_posts/2026-09-21-entrada-7-mision-vision-y-valores-de-pedidosya.md`
 
 ### Notas
 
@@ -74,13 +74,7 @@ Archivo: `_posts/2026-09-21-entrada-7-mision-vision-y-valores-de-empresa.md`
 
 ### Placeholders pendientes
 
-- [ ] [EMPRESA]
-- [ ] [LOGO O IMAGEN DE LA EMPRESA]
-- [ ] [copiada de la web oficial]
-- [ ] [copiados de la web oficial]
-- [ ] [link a la página oficial]
-- [ ] [Esto lo escribís vos. Ideas si elegís Mercado Libre: empezó en un garage en 1999 y hoy es una de las empresas más valiosas de la región; es una empresa de tecnología argentina que compite con gigantes globales; tiene una cultura muy fuerte que sostiene aunque creció muchísimo; te interesa cómo una startup escala sin perder su identidad, que es justo lo que te toca pensar con tus propios proyectos.]
-- [ ] [¿La misión se nota en lo que la empresa hace de verdad? ¿Es concreta o es una frase genérica? ¿La visión dice a dónde quiere llegar o solo describe lo que ya es?]
+_Nada pendiente._
 
 ## Entrada 8 · Un cambio en mi vida
 
