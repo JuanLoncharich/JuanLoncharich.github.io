@@ -88,13 +88,7 @@ Archivo: `_posts/2026-09-28-entrada-8-un-cambio-en-mi-vida.md`
 
 ### Placeholders pendientes
 
-- [ ] [Qué cambió, cuándo, y cómo era antes y después. 3 o 4 líneas.]
-- [ ] [¿Fue una oportunidad, una necesidad, una insatisfacción, algo externo? Distinguí si fue un cambio que elegiste o uno que te tocó.]
-- [ ] [Probablemente las dos cosas. Contá lo que ganaste y lo que te costó: tiempo, otras cosas que dejaste, estrés, aprendizajes.]
-- [ ] [Identificá cada etapa en tu caso: ¿qué te hizo “descongelar”?, ¿cómo fue la transición?, ¿ya está “recongelado” o seguís adaptándote?]
-- [ ] [Nombrá 2 de cada lado.]
-- [ ] [¿Sentiste alguna? ¿Cómo la superaste?]
-- [ ] [Qué te dejó y qué harías distinto en el próximo cambio.]
+_Nada pendiente._
 
 ## Entrada 9 · Mi actitud frente al cambio
 
